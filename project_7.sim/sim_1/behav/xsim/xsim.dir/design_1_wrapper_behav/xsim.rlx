@@ -1,0 +1,12 @@
+
+{ 
+    crc :  2293539264953776719  , 
+    ccp_crc :  0  , 
+    cmdline : " --incr --debug typical --relax --mt 8 -L xil_defaultlib -L xbip_utils_v3_0_11 -L axi_utils_v2_0_7 -L xbip_pipe_v3_0_7 -L xbip_bram18k_v3_0_7 -L mult_gen_v12_0_19 -L xbip_dsp48_wrapper_v3_0_5 -L xbip_dsp48_addsub_v3_0_7 -L xbip_dsp48_multadd_v3_0_7 -L dds_compiler_v6_0_23 -L sim_clk_gen_v1_0_3 -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot design_1_wrapper_behav xil_defaultlib.design_1_wrapper xil_defaultlib.glbl" , 
+    buildDate : "Oct 13 2023" , 
+    buildTime : "20:21:30" , 
+    linkCmd : "/usr/bin/gcc -Wa,-W  -O -fPIC  -m64  -Wl,--no-as-needed  -Wl,--unresolved-symbols=ignore-all  -o \"xsim.dir/design_1_wrapper_behav/xsimk\"   \"xsim.dir/design_1_wrapper_behav/obj/xsim_0.lnx64.o\" \"xsim.dir/design_1_wrapper_behav/obj/xsim_1.lnx64.o\" -L\"/tools/Xilinx/Vivado/2023.2/lib/lnx64.o\" -lrdi_simulator_kernel    -L/tools/Xilinx/Vivado/2023.2/lib/lnx64.o/../../tps/lnx64/gcc-9.3.0/bin/../lib64 -Wl,--disable-new-dtags -Wl,-rpath=/tools/Xilinx/Vivado/2023.2/lib/lnx64.o/../../tps/lnx64/gcc-9.3.0/bin/../lib64 -lrdi_simbridge_kernel" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

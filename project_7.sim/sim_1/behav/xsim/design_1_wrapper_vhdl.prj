@@ -1,0 +1,10 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../project_7.srcs/sources_1/new/string_encoder.vhd" \
+"../../../../project_7.ip_user_files/bd/design_1/ip/design_1_dds_compiler_0_0/sim/design_1_dds_compiler_0_0.vhd" \
+"../../../../project_7.ip_user_files/bd/design_1/ip/design_1_string_encoder_0_0/sim/design_1_string_encoder_0_0.vhd" \
+"../../../../project_7.ip_user_files/bd/design_1/sim/design_1.vhd" \
+"../../../../project_7.gen/sources_1/bd/design_1/hdl/design_1_wrapper.vhd" \
+
+# Do not sort compile order
+nosort
